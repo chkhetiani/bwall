@@ -127,5 +127,5 @@ func routine() {
 }
 
 func main() {
-	setImageAsWallpaper()
+	routine()
 }
